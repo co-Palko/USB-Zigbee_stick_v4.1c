@@ -10,6 +10,8 @@ Zigbee ztick for z2m. CC2652P2 module from RFStar
 В остальном модель повторяет предидущую конструкцию. Проверена в работе, исправлены возможные ошибки.
 Общее описание, функции и возможности по ссылке https://github.com/co-Palko/USB-Zigbee_stick_v4.1
 
+![alt tag](https://github.com/co-Palko/USB-Zigbee_stick_v4.1c/blob/main/images/Stick_v4.3sm.jpg)
+
 # in English
 
 USB stick version similar to USB-Zigbee_stick_v4.1 model, but
